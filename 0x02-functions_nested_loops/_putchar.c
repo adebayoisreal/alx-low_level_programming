@@ -8,9 +8,10 @@
  * Description: Print _Putchar
  * Return: Always return 0
  */
-int _putchar(int char)
+	int _putchar (int chr)
+
 {
-	putchar(char);
+	putchar (chr);
 
 	return(0);
 }
