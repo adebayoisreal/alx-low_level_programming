@@ -11,9 +11,9 @@
 	int main(void)
 
 {
-	char *sh = "putchar";
+char *sh = "_putchar";
 
-	while (*sh)
+while (*sh)
 
 {
 	_putchar(*sh);
